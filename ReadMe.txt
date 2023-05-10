@@ -1,7 +1,7 @@
 Author: Ondrej Zelina
 Author URL: 
 Author Email: ondrej.web@gmail.com
-Tutorial Link: http://www.codexworld.com/simple-php-shopping-cart-using-sessions/
+Tutorial Link: 
 
 ============ Instructions ============
 1. Create a database (for example "eshop") and import the "SQL/cart_db.sql" file in this database.
